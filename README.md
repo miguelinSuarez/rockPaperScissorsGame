@@ -1,0 +1,1 @@
+A game of rock, paper, scissors against Skynet.  Best of 5 wins.
